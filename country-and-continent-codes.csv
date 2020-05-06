@@ -1,0 +1,255 @@
+Country,Continent_Name,Continent_Code,Two_Letter_Country_Code,Country_Number
+Afghanistan,Asia,AS,AF,4
+Albania,Europe,EU,AL,8
+Antarctica ,Antarctica,AN,AQ,10
+Algeria,Africa,AF,DZ,12
+American Samoa,Oceania,AF,AS,16
+Andorra,Europe,EU,AD,20
+Angola,Africa,AF,AO,24
+Antigua and Barbuda,North America,NA,AG,28
+Azerbaijan,Asia,AS,AZ,31
+Argentina,South America,SA,AR,32
+Australia,Oceania,OC,AU,36
+Austria,Europe,EU,AT,40
+Bahamas,North America,NA,BS,44
+Bahrain,Asia,AS,BH,48
+Bangladesh,Asia,AS,BD,50
+Armenia,Asia,AS,AM,51
+Barbados,North America,NA,BB,52
+Belgium,Europe,EU,BE,56
+Bermuda,North America,NA,BM,60
+Bhutan,Asia,AS,BT,64
+Bolivia,South America,SA,BO,68
+Bosnia and Herzegovina,Europe,EU,BA,70
+Botswana,Africa,AF,BW,72
+Bouvet Island ,Antarctica,AN,BV,74
+Brazil,South America,SA,BR,76
+Belize,North America,NA,BZ,84
+British Indian Ocean Territory ,Asia,AS,IO,86
+Solomon Islands,Oceania,OC,SB,90
+British Virgin Islands,North America,NA,VG,92
+Brunei,Asia,AS,BN,96
+Bulgaria,Europe,EU,BG,100
+Myanmar,Asia,AS,MM,104
+Burundi,Africa,AF,BI,108
+Belarus,Europe,EU,BY,112
+Cambodia,Asia,AS,KH,116
+Cameroon,Africa,AF,CM,120
+Canada,North America,NA,CA,124
+Cape Verde,Africa,AF,CV,132
+Cayman Islands,North America,NA,KY,136
+Central African Republic,Africa,AF,CF,140
+Sri Lanka,Asia,AS,LK,144
+Chad,Africa,AF,TD,148
+Chile,South America,SA,CL,152
+China,Asia,AS,CN,156
+Taiwan,Asia,AS,TW,158
+Christmas Island,Asia,AS,CX,162
+Cocos ,Asia,AS,CC,166
+Colombia,South America,SA,CO,170
+Comoros,Africa,AF,KM,174
+Mayotte,Africa,AF,YT,175
+"Congo, Rep.",Africa,AF,CG,178
+"Congo, Dem. Rep.",Africa,AF,CD,180
+Cook Islands,Oceania,OC,CK,184
+Costa Rica,North America,NA,CR,188
+Croatia,Europe,EU,HR,191
+Cuba,North America,NA,CU,192
+Cyprus,Europe,EU,CY,196
+Czech Republic,Europe,EU,CZ,203
+Benin,Africa,AF,BJ,204
+Denmark,Europe,EU,DK,208
+Dominica,North America,NA,DM,212
+Dominican Republic,North America,NA,DO,214
+Ecuador,South America,SA,EC,218
+El Salvador,North America,NA,SV,222
+Equatorial Guinea,Africa,AF,GQ,226
+Ethiopia,Africa,AF,ET,231
+Eritrea,Africa,AF,ER,232
+Estonia,Europe,EU,EE,233
+Faroe Islands,Europe,EU,FO,234
+Falkland Islands ,South America,SA,FK,238
+South Georgia and the South Sandwich Islands,Antarctica,AN,GS,239
+Fiji,Oceania,OC,FJ,242
+Finland,Europe,EU,FI,246
+Åland Islands,Europe,EU,AX,248
+France,Europe,EU,FR,250
+French Guiana,South America,SA,GF,254
+French Polynesia,Oceania,OC,PF,258
+French Southern Territories,Antarctica,AN,TF,260
+Djibouti,Africa,AF,DJ,262
+Gabon,Africa,AF,GA,266
+Georgia,Asia,AS,GE,268
+Gambia,Africa,AF,GM,270
+Palestine,Asia,AS,PS,275
+Germany,Europe,EU,DE,276
+Ghana,Africa,AF,GH,288
+Gibraltar,Europe,EU,GI,292
+Kiribati,Oceania,OC,KI,296
+Greece,Europe,EU,GR,300
+Greenland,North America,NA,GL,304
+Grenada,North America,NA,GD,308
+Guadeloupe,North America,NA,GP,312
+Guam,Oceania,OC,GU,316
+Guatemala,North America,NA,GT,320
+Guinea,Africa,AF,GN,324
+Guyana,South America,SA,GY,328
+Haiti,North America,NA,HT,332
+Heard Island and McDonald Islands,Antarctica,AN,HM,334
+Holy See ,Europe,EU,VA,336
+Honduras,North America,NA,HN,340
+Hong Kong,Asia,AS,HK,344
+Hungary,Europe,EU,HU,348
+Iceland,Europe,EU,IS,352
+India,Asia,AS,IN,356
+Indonesia,Asia,AS,ID,360
+Iran,Asia,AS,IR,364
+Iraq,Asia,AS,IQ,368
+Ireland,Europe,EU,IE,372
+Israel,Asia,AS,IL,376
+Italy,Europe,EU,IT,380
+Cote d'Ivoire,Africa,AF,CI,384
+Jamaica,North America,NA,JM,388
+Japan,Asia,AS,JP,392
+Kazakhstan,Asia,AS,KZ,398
+Jordan,Asia,AS,JO,400
+Kenya,Africa,AF,KE,404
+North Korea,Asia,AS,KP,408
+South Korea,Asia,AS,KR,410
+Kuwait,Asia,AS,KW,414
+Kyrgyz Republic,Asia,AS,KG,417
+Lao,Asia,AS,LA,418
+Lebanon,Asia,AS,LB,422
+Lesotho,Africa,AF,LS,426
+Latvia,Europe,EU,LV,428
+Liberia,Africa,AF,LR,430
+Libya,Africa,AF,LY,434
+Liechtenstein,Europe,EU,LI,438
+Lithuania,Europe,EU,LT,440
+Luxembourg,Europe,EU,LU,442
+Macao,Asia,AS,MO,446
+Madagascar,Africa,AF,MG,450
+Malawi,Africa,AF,MW,454
+Malaysia,Asia,AS,MY,458
+Maldives,Asia,AS,MV,462
+Mali,Africa,AF,ML,466
+Malta,Europe,EU,MT,470
+Martinique,North America,NA,MQ,474
+Mauritania,Africa,AF,MR,478
+Mauritius,Africa,AF,MU,480
+Mexico,North America,NA,MX,484
+Monaco,Europe,EU,MC,492
+Mongolia,Asia,AS,MN,496
+Moldova,Europe,EU,MD,498
+Montenegro,Europe,EU,ME,499
+Montserrat,North America,NA,MS,500
+Morocco,Africa,AF,MA,504
+Mozambique,Africa,AF,MZ,508
+Oman,Asia,AS,OM,512
+Namibia,Africa,AF,NA,516
+Nauru,Oceania,OC,NR,520
+Nepal,Asia,AS,NP,524
+Netherlands,Europe,EU,NL,528
+Netherlands Antilles,North America,NA,AN,530
+Curaçao,North America,NA,CW,531
+Aruba,North America,NA,AW,533
+Sint Maarten ,North America,NA,SX,534
+Bonaire,North America,NA,BQ,535
+New Caledonia,Oceania,OC,NC,540
+Vanuatu,Oceania,OC,VU,548
+New Zealand,Oceania,OC,NZ,554
+Nicaragua,North America,NA,NI,558
+Niger,Africa,AF,NE,562
+Nigeria,Africa,AF,NG,566
+Niue,Oceania,OC,NU,570
+Norfolk Island,Oceania,OC,NF,574
+Norway,Europe,EU,NO,578
+Northern Mariana Islands,Oceania,OC,MP,580
+United States Minor Outlying Islands,Oceania,OC,UM,581
+"Micronesia, Fed. Sts.",Oceania,OC,FM,583
+Marshall Islands,Oceania,OC,MH,584
+Palau,Oceania,OC,PW,585
+Pakistan,Asia,AS,PK,586
+Panama,North America,NA,PA,591
+Papua New Guinea,Oceania,OC,PG,598
+Paraguay,South America,SA,PY,600
+Peru,South America,SA,PE,604
+Philippines,Asia,AS,PH,608
+Pitcairn Islands,Oceania,OC,PN,612
+Poland,Europe,EU,PL,616
+Portugal,Europe,EU,PT,620
+Guinea-Bissau,Africa,AF,GW,624
+Timor-Leste,Asia,AS,TL,626
+Puerto Rico,North America,NA,PR,630
+Qatar,Asia,AS,QA,634
+Reunion,Africa,AF,RE,638
+Romania,Europe,EU,RO,642
+Russia,Asia,AS,RU,643
+Rwanda,Africa,AF,RW,646
+Saint Barthelemy,North America,NA,BL,652
+Saint Helena,Africa,AF,SH,654
+St. Kitts and Nevis,North America,NA,KN,659
+Anguilla,North America,NA,AI,660
+St. Lucia,North America,NA,LC,662
+Saint Martin,North America,NA,MF,663
+Saint Pierre and Miquelon,North America,NA,PM,666
+St. Vincent and the Grenadines,North America,NA,VC,670
+San Marino,Europe,EU,SM,674
+Sao Tome and Principe,Africa,AF,ST,678
+Saudi Arabia,Asia,AS,SA,682
+Senegal,Africa,AF,SN,686
+Serbia,Europe,EU,RS,688
+Seychelles,Africa,AF,SC,690
+Sierra Leone,Africa,AF,SL,694
+Singapore,Asia,AS,SG,702
+Slovak Republic,Europe,EU,SK,703
+Vietnam,Asia,AS,VN,704
+Slovenia,Europe,EU,SI,705
+Somalia,Africa,AF,SO,706
+South Africa,Africa,AF,ZA,710
+Zimbabwe,Africa,AF,ZW,716
+Spain,Europe,EU,ES,724
+South Sudan,Africa,AF,SS,728
+Western Sahara,Africa,AF,EH,732
+Sudan,Africa,AF,SD,736
+Suriname,South America,SA,SR,740
+Svalbard & Jan Mayen Islands,Europe,EU,SJ,744
+Swaziland,Africa,AF,SZ,748
+Sweden,Europe,EU,SE,752
+Switzerland,Europe,EU,CH,756
+Syria,Asia,AS,SY,760
+Tajikistan,Asia,AS,TJ,762
+Thailand,Asia,AS,TH,764
+Togo,Africa,AF,TG,768
+Tokelau,Oceania,OC,TK,772
+Tonga,Oceania,OC,TO,776
+Trinidad and Tobago,North America,NA,TT,780
+United Arab Emirates,Asia,AS,AE,784
+Tunisia,Africa,AF,TN,788
+Turkey,Asia,AS,TR,792
+Turkmenistan,Asia,AS,TM,795
+Turks and Caicos Islands,North America,NA,TC,796
+Tuvalu,Oceania,OC,TV,798
+Uganda,Africa,AF,UG,800
+Ukraine,Europe,EU,UA,804
+"Macedonia, FYR",Europe,EU,MK,807
+Egypt,Africa,AF,EG,818
+United Kingdom,Europe,EU,GB,826
+Guernsey,Europe,EU,GG,831
+Jersey,Europe,EU,JE,832
+Isle of Man,Europe,EU,IM,833
+Tanzania,Africa,AF,TZ,834
+United States,North America,NA,US,840
+United States Virgin Islands,North America,NA,VI,850
+Burkina Faso,Africa,AF,BF,854
+Uruguay,South America,SA,UY,858
+Uzbekistan,Asia,AS,UZ,860
+Venezuela,South America,SA,VE,862
+Wallis and Futuna,Oceania,OC,WF,876
+Samoa,Oceania,OC,WS,882
+Yemen,Asia,AS,YE,887
+Zambia,Africa,AF,ZM,894
+Disputed Territory,Oceania,OC,XX,
+Iraq-Saudi Arabia Neutral Zone,Asia,AS,XE,
+United Nations Neutral Zone,Asia,AS,XD,
+Spratly Islands,Asia,AS,XS,
