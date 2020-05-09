@@ -18,7 +18,7 @@ This was study project for online course [Data Analyst Nanodegree from Udacity](
 
 ### Conclusion and main findings
 
-There is huge gap between countries with high and low electricity consumption in all tech indicators (with exception of urbanization) as well as in income. Even though differences in phone and computer ownerships and number of internet users are getting over time smaller, gap in income and urbanized population remains barely unchanged. In 2005 countries with electricity consumption had on average almost 3 times more personal phones and almost 8 times more personal computers than in countries with low electricity consumption. Income was 5,5 times higher in countries with high electricity consumption.
+There is huge gap between countries with high and low electricity consumption in all tech indicators (with exception of urbanization) as well as in income. Even though differences in phone and computer ownerships and number of internet users are getting smaller over time, gap in income and urbanized population remains barely unchanged. In 2005 countries with electricity consumption had on average almost 3 times more personal phones and almost 8 times more personal computers than in countries with low electricity consumption. Income was 5,5 times higher in countries with high electricity consumption.
 
 ### Authors
 
