@@ -4,6 +4,8 @@
 
 This was study project for online course [Data Analyst Nanodegree from Udacity](https://www.udacity.com/course/data-analyst-nanodegree--nd002).
 
+![](README.assets/dawn-1866629_640.jpg)
+Source:Pixabay
 
 ### Instalation
 
